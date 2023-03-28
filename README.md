@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋.I'm Roshan Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-# 💫 About Me:
+
 🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and PHP<br>💬 Ask me Anything About Web Development
 
 
