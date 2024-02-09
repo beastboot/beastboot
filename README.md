@@ -1,6 +1,5 @@
-![](https://github.com/beastboot/beastboot/blob/main/Roshan%20Kumar%20(4).png)
-<h1 align="center">Hi👋.I'm Roshan Kumar</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+## Hello, I'm [Roshan Kumar!](https://google.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=1CB843&lines=I'm+Frontend+UI/UX+Developer+;and+Data+Analyst!)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and PHP<br>💬 Ask me Anything About Web Development
